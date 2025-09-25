@@ -19,7 +19,7 @@ redirect_from:
 
 # Publications 
 \* for corresponding author, <sup>\#</sup> for equal contribution.
-- ``Arxiv`` [MobileRAG: Enhancing Mobile Agent with Retrieval-Augmented Generation](https://arxiv.org/abs/2509.03891), Gowen Loo, Chang Liu, Qinghong Yin, Xiang Chen, Jiawei Chen, Jingyuan Zhang, **Yu Tian\***.
+- ``Arxiv`` [MobileRAG: Enhancing Mobile Agent with Retrieval-Augmented Generation](https://arxiv.org/abs/2509.03891), Gowen Loo, **Chang Liu**, Qinghong Yin, Xiang Chen, Jiawei Chen, Jingyuan Zhang, Yu Tian*.
 
 
 # Projects
